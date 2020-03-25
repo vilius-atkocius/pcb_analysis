@@ -33,5 +33,4 @@ for i=1:length(stats.Centroid)
     xlabel ('z, m');
     ylabel ('B, G');
 end
-end
 ```
